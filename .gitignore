@@ -1,0 +1,23 @@
+
+    __pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+    .Python
+    env/
+    venv/
+    .venv/
+    *.egg
+    *.egg-info/
+    dist/
+    build/
+    .mypy_cache/
+    .pytest_cache/
+    .ruff_cache/
+
+
+    .idea/  # Настройки PyCharm для проекта
+
+
+    .DS_Store
+    Thumbs.db

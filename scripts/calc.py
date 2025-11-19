@@ -1,0 +1,9 @@
+def calculate(a, b, op):
+    if op == '+':
+        return a + b
+    elif op == '-':
+        return a - b
+    elif op == '*':
+        return a * b
+    else:
+        raise ValueError("Неизвестная операция")
